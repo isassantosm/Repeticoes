@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repeticoes.AtividadeWhile2"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repeticoes.AtividadeWhile3", "Repeticoes.AtividadeWhile3\Repeticoes.AtividadeWhile3.csproj", "{D5357DC6-8E38-441B-91F0-3BB4098F1AF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repeticoes.AtividadeFor1", "Repeticoes.AtividadeFor1\Repeticoes.AtividadeFor1.csproj", "{F576089F-A1CC-4CAC-ACEE-ECDE7E06FC48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{D5357DC6-8E38-441B-91F0-3BB4098F1AF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5357DC6-8E38-441B-91F0-3BB4098F1AF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5357DC6-8E38-441B-91F0-3BB4098F1AF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F576089F-A1CC-4CAC-ACEE-ECDE7E06FC48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F576089F-A1CC-4CAC-ACEE-ECDE7E06FC48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F576089F-A1CC-4CAC-ACEE-ECDE7E06FC48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F576089F-A1CC-4CAC-ACEE-ECDE7E06FC48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
